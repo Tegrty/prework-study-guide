@@ -16,12 +16,16 @@ h2 {
     text-align: center;
 }
 
-img {
+.cat {
     display: block;
     height: 50px;
     width: 50px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.HTML-img {
+align-content: center;
 }
 
 ul {
@@ -40,3 +44,8 @@ p {
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
   }
+
+ol {
+    padding-left: 40px;
+    font-size: 20px;
+}
